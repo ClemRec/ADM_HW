@@ -1,2 +1,2 @@
 # ADM_HW
-This repository contains all the projects completed during the course of Algorithmic Methods of Data Science @Sapienza Università di Roma
+Here you find the homeworks of ADM class of the MSc in Data Science @ La Sapienza University.
